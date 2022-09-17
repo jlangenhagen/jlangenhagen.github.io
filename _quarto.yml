@@ -9,8 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-  google-analytics: "4072355299"
-  tracking-id: "G-CL2F0K5V90"
+  google-analytics: "G-CL2F0K5V90"
   cookie-consent: true
 
 format:
